@@ -1,6 +1,14 @@
 # ReactLoginScriptDeploy
 A simple React website to login to an API in Hungarian language and get accommodation data. You can visit the deployed site at https://sztrelcsikzoltan.github.io/ReactLoginScriptDeploy/
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Getting Started with Create React App
 
